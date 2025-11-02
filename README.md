@@ -1,16 +1,81 @@
-# React + Vite
+# CICO Tools
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CICO Tools** – A free, no-fuss suite of essential web utilities right in your browser.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## React Compiler
+CICO Tools is a collection of quick, powerful web-tools built with usability in mind.  
+Whether you need to convert, format, validate or inspect—CICO Tools has you covered.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Features
 
-## Expanding the ESLint configuration
+- ✅ Multiple web tools in one place  
+- ✅ Clean, responsive UI  
+- ✅ Built for speed and simplicity  
+- ✅ Free to use—no signup required  
+- ✅ Ideal for developers, designers, students and everyday users  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Available Tools
+
+Here are some of the tools you’ll find on the site (you can list all tools you provide):
+
+- Text / String manipulation  
+- Hashing & encryption utilities  
+- Data conversions (JSON, YAML, CSV)  
+- Code formatting and minification  
+- Image/image-data utilities  
+- Validation tools (e.g., email, URL, JSON schema)  
+- …and more!
+
+---
+
+## 🛠 Built With
+
+- **Framework / Library**: *[Insert your front-end tech here]* (e.g., React, Vue, Svelte)  
+- **Bundler / Build Tool**: *[Insert]* (e.g., Vite)  
+- **Hosting**: Deployed on [Vercel](https://vercel.com/)  
+- **Styles / UI**: *[Insert]* (e.g., Tailwind CSS, Material UI)  
+- **Other Tools**: *[Insert any significant library or tool]*  
+
+---
+
+## 📦 Installation & Setup (for Developers)
+
+If you’d like to contribute or run locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/cicotools.git
+cd cicotools
+
+# Install dependencies
+npm install   # or yarn install
+
+# Run locally (development mode)
+npm run dev   # or yarn dev
+
+# Build for production
+npm run build # or yarn build
+
+# Start production preview
+npm run preview
+```
+
+
+```
+cicotools/
+├── public/          # Static files, assets
+├── src/
+│   ├── components/  # Reusable UI components
+│   ├── pages/       # Tool pages
+│   ├── styles/      # Global styles, themes
+│   ├── utils/       # Helper functions for tools
+│   └── App.*        # App entry point
+├── .gitignore
+├── package.json
+└── vite.config.*    # Vite configuration (if used)
+```
