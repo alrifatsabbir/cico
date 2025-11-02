@@ -1,3 +1,5 @@
+// vite.config.js
+
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "path";
@@ -9,6 +11,8 @@ const __dirname = path.dirname(__filename);
 
 
 export default defineConfig({
+  base: "/", 
+  
   plugins: [tailwindcss(),react()],
   resolve: {
     alias: {
