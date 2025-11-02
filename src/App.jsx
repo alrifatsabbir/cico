@@ -40,7 +40,6 @@ const App = () => {
         <Route path="/calendar/bangla" element={<BnCalendar />} />
         <Route path="/calendar/arabic" element={<ArabicCalendar/>}/>
         <Route path="/calendar/chinese" element={<CnCalendar/>}/>
-        <Route path="/*" element={<NotFound/>}/>
         <Route path="/clock/world" element={<WorldClock/>}/>
         <Route path="/clock/alarm" element={<Alarm/>}/>
         <Route path="/clock/stopwatch" element={<StopWatch/>}/>
@@ -51,6 +50,7 @@ const App = () => {
         <Route path="/legal/terms" element={<Terms/>}/>
         <Route path="/legal/security" element={<Security/>}/>
         <Route path="/legal/licenses" element={<Licenses/>}/>
+        <Route path="/*" element={<NotFound/>}/>
       </Routes>
       <Footer/>
     </BrowserRouter>
