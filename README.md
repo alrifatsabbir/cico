@@ -35,11 +35,11 @@ Here are some of the tools you’ll find on the site (you can list all tools you
 
 ## 🛠 Built With
 
-- **Framework / Library**: *[Insert your front-end tech here]* (e.g., React, Vue, Svelte)  
-- **Bundler / Build Tool**: *[Insert]* (e.g., Vite)  
+- **Framework / Library**: *React Js, GSAP, Framer-motion*  
+- **Bundler / Build Tool**: *VITE*   
 - **Hosting**: Deployed on [Vercel](https://vercel.com/)  
-- **Styles / UI**: *[Insert]* (e.g., Tailwind CSS, Material UI)  
-- **Other Tools**: *[Insert any significant library or tool]*  
+- **Styles / UI**: *Tailwind CSS, ShadCN UI* 
+- **Other Tools**: *NPM*  
 
 ---
 
