@@ -1,6 +1,8 @@
 # CICO Tools
 
-  ![CICO Tools](https://cicotools.vercel.app/assets/CICo-nr-D1ibbDCo.png) 
+<div align="center">
+  <img src="https://cicotools.vercel.app/assets/CICo-nr-D1ibbDCo.png" alt="CICO Logo">
+</div>
 
 **CICO Tools** – A free, no-fuss suite of essential web utilities right in your browser.
 
